@@ -88,6 +88,8 @@ export const ALLOWLIST = [
 export const DOMAINS = [
   '2iij.net',
   'adsl.no',
+  'agentmail.ackuna.com',
+  'agents.ackuna.com',
   'aliasvault.net',
   'aol.co.uk',
   'aol.de',
